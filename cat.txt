@@ -1,8 +1,9 @@
-Mačji dnevnik — 2025-01-12 (#2)
+Mačji dnevnik — 2025-01-12 (#3)
 
-    /\_/\
-   ( O.O )  !!!
-   /  ^  \
+   /\_/\
+  ( ^.^ )
+  /|   |\
+ (_|   |_)
 
-Misao dana: Tipkovnica je topla. Sad je moja.
-Commit broj 15. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Danas sam pomaknuo jedan pixel na grafu. Ponosan sam.
+Commit broj 16. Mačka ne zna brojati, ovo je izmislila.
