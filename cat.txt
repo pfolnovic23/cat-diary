@@ -1,8 +1,8 @@
-Mačji dnevnik — 2025-01-13 (#3)
+Mačji dnevnik — 2025-01-13 (#4)
 
    /\_/\
-  ( >.< )  mjau
-   (")(")
+  ( o.o )
+   > ^ <
 
 Misao dana: Laser se opet izgubio. Istraga je u tijeku.
-Commit broj 22. Mačka ne zna brojati, ovo je izmislila.
+Commit broj 23. Mačka ne zna brojati, ovo je izmislila.
