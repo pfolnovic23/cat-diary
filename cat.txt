@@ -1,8 +1,8 @@
-Mačji dnevnik — 2025-02-26 (#9)
+Mačji dnevnik — 2025-02-26 (#10)
 
    /\_/\
-  ( o.o )
+  ( -.- )  zzz
    > ^ <
 
-Misao dana: Spavao sam 16 sati. Umoran sam.
-Commit broj 108. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: git commit -m 'mjau'
+Commit broj 109. Mačka ne zna brojati, ovo je izmislila.
