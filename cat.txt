@@ -1,8 +1,9 @@
-Mačji dnevnik — 2025-03-05 (#3)
+Mačji dnevnik — 2025-03-06 (#1)
 
    /\_/\
-  ( >.< )  mjau
-   (")(")
+  ( ^.^ )
+  /|   |\
+ (_|   |_)
 
-Misao dana: Ignorirao sam ime. Odazvao sam se na zvuk vrećice.
-Commit broj 115. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: git commit -m 'mjau'
+Commit broj 116. Mačka ne zna brojati, ovo je izmislila.
