@@ -1,8 +1,9 @@
-Mačji dnevnik — 2025-03-20 (#1)
+Mačji dnevnik — 2025-03-20 (#2)
 
    /\_/\
-  ( -.- )  zzz
-   > ^ <
+  ( ^.^ )
+  /|   |\
+ (_|   |_)
 
 Misao dana: Hrana je u zdjelici, ali vidi se dno. Kriza.
-Commit broj 143. Mačka ne zna brojati, ovo je izmislila.
+Commit broj 144. Mačka ne zna brojati, ovo je izmislila.
