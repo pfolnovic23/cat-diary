@@ -1,8 +1,9 @@
-Mačji dnevnik — 2025-03-21 (#4)
+Mačji dnevnik — 2025-03-21 (#5)
 
    /\_/\
-  ( o.o )
-   > ^ <
+  ( ^.^ )
+  /|   |\
+ (_|   |_)
 
-Misao dana: Kutija je stigla. Ono unutra nije bitno.
-Commit broj 149. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Ovaj commit je napravila mačka. Recruiteri, pozdrav.
+Commit broj 150. Mačka ne zna brojati, ovo je izmislila.
