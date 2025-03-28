@@ -1,8 +1,9 @@
-Mačji dnevnik — 2025-03-28 (#5)
+Mačji dnevnik — 2025-03-28 (#6)
 
-   /\_/\
-  ( >.< )  mjau
-   (")(")
+   |\__/,|   (`\
+   |_ _  |.--.) )
+   ( T   )     /
+  (((^_(((/(((_/
 
-Misao dana: Ignorirao sam ime. Odazvao sam se na zvuk vrećice.
-Commit broj 164. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Merge conflict s psom. Riješeno grebanjem.
+Commit broj 165. Mačka ne zna brojati, ovo je izmislila.
