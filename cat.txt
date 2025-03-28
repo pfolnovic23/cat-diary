@@ -1,9 +1,8 @@
-Mačji dnevnik — 2025-03-28 (#1)
+Mačji dnevnik — 2025-03-28 (#2)
 
-   |\__/,|   (`\
-   |_ _  |.--.) )
-   ( T   )     /
-  (((^_(((/(((_/
+   /\_/\
+  ( o.o )
+   > ^ <
 
-Misao dana: Ignorirao sam ime. Odazvao sam se na zvuk vrećice.
-Commit broj 160. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Danas sam pomaknuo jedan pixel na grafu. Ponosan sam.
+Commit broj 161. Mačka ne zna brojati, ovo je izmislila.
