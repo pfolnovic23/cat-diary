@@ -1,8 +1,8 @@
-Mačji dnevnik — 2025-04-05 (#4)
+Mačji dnevnik — 2025-04-05 (#5)
 
-    /\_/\
-   ( O.O )  !!!
-   /  ^  \
+   /\_/\
+  ( -.- )  zzz
+   > ^ <
 
-Misao dana: Krastavac iza mene. Nikad neću oprostiti.
-Commit broj 182. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Merge conflict s psom. Riješeno grebanjem.
+Commit broj 183. Mačka ne zna brojati, ovo je izmislila.
