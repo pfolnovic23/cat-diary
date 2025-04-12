@@ -1,8 +1,8 @@
-Mačji dnevnik — 2025-04-12 (#1)
+Mačji dnevnik — 2025-04-12 (#2)
 
-   /\_/\
-  ( >.< )  mjau
-   (")(")
+    /\_/\
+   ( O.O )  !!!
+   /  ^  \
 
-Misao dana: git commit -m 'mjau'
-Commit broj 192. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Laser se opet izgubio. Istraga je u tijeku.
+Commit broj 193. Mačka ne zna brojati, ovo je izmislila.
