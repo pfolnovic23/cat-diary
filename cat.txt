@@ -1,8 +1,8 @@
-Mačji dnevnik — 2025-04-12 (#4)
+Mačji dnevnik — 2025-04-12 (#5)
 
-    /\_/\
-   ( O.O )  !!!
-   /  ^  \
+   /\_/\
+  ( >.< )  mjau
+   (")(")
 
-Misao dana: Laser se opet izgubio. Istraga je u tijeku.
-Commit broj 195. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Merge conflict s psom. Riješeno grebanjem.
+Commit broj 196. Mačka ne zna brojati, ovo je izmislila.
