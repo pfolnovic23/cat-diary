@@ -1,8 +1,9 @@
-Mačji dnevnik — 2025-04-18 (#5)
+Mačji dnevnik — 2025-04-18 (#6)
 
    /\_/\
-  ( >.< )  mjau
-   (")(")
+  ( ^.^ )
+  /|   |\
+ (_|   |_)
 
-Misao dana: Lovio sam rep. Rep je pobjegao.
-Commit broj 203. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Laser se opet izgubio. Istraga je u tijeku.
+Commit broj 204. Mačka ne zna brojati, ovo je izmislila.
