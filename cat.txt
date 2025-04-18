@@ -1,8 +1,9 @@
-Mačji dnevnik — 2025-04-18 (#1)
+Mačji dnevnik — 2025-04-18 (#2)
 
-    /\_/\
-   ( O.O )  !!!
-   /  ^  \
+   |\__/,|   (`\
+   |_ _  |.--.) )
+   ( T   )     /
+  (((^_(((/(((_/
 
-Misao dana: Merge conflict s psom. Riješeno grebanjem.
-Commit broj 199. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Ignorirao sam ime. Odazvao sam se na zvuk vrećice.
+Commit broj 200. Mačka ne zna brojati, ovo je izmislila.
