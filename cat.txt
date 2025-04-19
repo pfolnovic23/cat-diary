@@ -1,8 +1,9 @@
-Mačji dnevnik — 2025-04-19 (#3)
+Mačji dnevnik — 2025-04-19 (#4)
 
-    /\_/\
-   ( O.O )  !!!
-   /  ^  \
+   /\_/\
+  ( ^.^ )
+  /|   |\
+ (_|   |_)
 
-Misao dana: Spavao sam 16 sati. Umoran sam.
-Commit broj 207. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Laser se opet izgubio. Istraga je u tijeku.
+Commit broj 208. Mačka ne zna brojati, ovo je izmislila.
