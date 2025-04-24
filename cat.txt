@@ -1,8 +1,8 @@
-Mačji dnevnik — 2025-04-19 (#6)
+Mačji dnevnik — 2025-04-24 (#1)
 
    /\_/\
-  ( o.o )
+  ( -.- )  zzz
    > ^ <
 
-Misao dana: Vidio sam pticu kroz prozor. Ona zna što je napravila.
-Commit broj 210. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: git commit -m 'mjau'
+Commit broj 211. Mačka ne zna brojati, ovo je izmislila.
