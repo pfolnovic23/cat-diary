@@ -1,8 +1,8 @@
-Mačji dnevnik — 2025-05-02 (#5)
+Mačji dnevnik — 2025-05-02 (#6)
 
    /\_/\
   ( -.- )  zzz
    > ^ <
 
-Misao dana: Danas sam srušio čašu sa stola. Ne žalim.
-Commit broj 238. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Laser se opet izgubio. Istraga je u tijeku.
+Commit broj 239. Mačka ne zna brojati, ovo je izmislila.
