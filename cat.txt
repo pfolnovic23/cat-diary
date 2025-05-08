@@ -1,8 +1,8 @@
-Mačji dnevnik — 2025-05-08 (#8)
+Mačji dnevnik — 2025-05-08 (#9)
 
-   /\_/\
-  ( o.o )
-   > ^ <
+    /\_/\
+   ( O.O )  !!!
+   /  ^  \
 
 Misao dana: Sjeo sam na laptop usred calla. Dobrodošli.
-Commit broj 251. Mačka ne zna brojati, ovo je izmislila.
+Commit broj 252. Mačka ne zna brojati, ovo je izmislila.
