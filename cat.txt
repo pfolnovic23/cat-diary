@@ -1,9 +1,9 @@
-Mačji dnevnik — 2025-05-22 (#1)
+Mačji dnevnik — 2025-05-26 (#1)
 
    /\_/\
   ( ^.^ )
   /|   |\
  (_|   |_)
 
-Misao dana: Tipkovnica je topla. Sad je moja.
-Commit broj 286. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Laser se opet izgubio. Istraga je u tijeku.
+Commit broj 287. Mačka ne zna brojati, ovo je izmislila.
