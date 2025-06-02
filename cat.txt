@@ -1,8 +1,8 @@
-Mačji dnevnik — 2025-06-02 (#3)
+Mačji dnevnik — 2025-06-02 (#4)
 
    /\_/\
-  ( -.- )  zzz
+  ( o.o )
    > ^ <
 
 Misao dana: Kutija je stigla. Ono unutra nije bitno.
-Commit broj 308. Mačka ne zna brojati, ovo je izmislila.
+Commit broj 309. Mačka ne zna brojati, ovo je izmislila.
