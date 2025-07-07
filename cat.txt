@@ -1,8 +1,8 @@
-Mačji dnevnik — 2025-07-07 (#3)
+Mačji dnevnik — 2025-07-07 (#4)
 
    /\_/\
   ( -.- )  zzz
    > ^ <
 
-Misao dana: Ovaj commit je napravila mačka. Recruiteri, pozdrav.
-Commit broj 379. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Spavao sam 16 sati. Umoran sam.
+Commit broj 380. Mačka ne zna brojati, ovo je izmislila.
