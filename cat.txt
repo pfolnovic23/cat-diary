@@ -1,8 +1,9 @@
-Mačji dnevnik — 2025-07-07 (#7)
+Mačji dnevnik — 2025-07-07 (#8)
 
-   /\_/\
-  ( o.o )
-   > ^ <
+   |\__/,|   (`\
+   |_ _  |.--.) )
+   ( T   )     /
+  (((^_(((/(((_/
 
-Misao dana: Ignorirao sam ime. Odazvao sam se na zvuk vrećice.
-Commit broj 383. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: git commit -m 'mjau'
+Commit broj 384. Mačka ne zna brojati, ovo je izmislila.
