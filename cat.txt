@@ -1,8 +1,9 @@
-Mačji dnevnik — 2025-07-07 (#4)
+Mačji dnevnik — 2025-07-07 (#5)
 
    /\_/\
-  ( -.- )  zzz
-   > ^ <
+  ( ^.^ )
+  /|   |\
+ (_|   |_)
 
-Misao dana: Spavao sam 16 sati. Umoran sam.
-Commit broj 380. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Ignorirao sam ime. Odazvao sam se na zvuk vrećice.
+Commit broj 381. Mačka ne zna brojati, ovo je izmislila.
