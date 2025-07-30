@@ -1,8 +1,8 @@
-Mačji dnevnik — 2025-07-30 (#4)
+Mačji dnevnik — 2025-07-30 (#5)
 
-    /\_/\
-   ( O.O )  !!!
-   /  ^  \
+   /\_/\
+  ( >.< )  mjau
+   (")(")
 
-Misao dana: Sjeo sam na laptop usred calla. Dobrodošli.
-Commit broj 430. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Laser se opet izgubio. Istraga je u tijeku.
+Commit broj 431. Mačka ne zna brojati, ovo je izmislila.
