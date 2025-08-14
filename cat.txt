@@ -1,9 +1,8 @@
-Mačji dnevnik — 2025-08-14 (#4)
+Mačji dnevnik — 2025-08-14 (#5)
 
-   |\__/,|   (`\
-   |_ _  |.--.) )
-   ( T   )     /
-  (((^_(((/(((_/
+   /\_/\
+  ( -.- )  zzz
+   > ^ <
 
-Misao dana: Mjauknuo sam u 4 ujutro. Bez razloga.
-Commit broj 454. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Laser se opet izgubio. Istraga je u tijeku.
+Commit broj 455. Mačka ne zna brojati, ovo je izmislila.
