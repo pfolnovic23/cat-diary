@@ -1,8 +1,8 @@
-Mačji dnevnik — 2025-08-29 (#3)
+Mačji dnevnik — 2025-08-29 (#4)
 
-    /\_/\
-   ( O.O )  !!!
-   /  ^  \
+   /\_/\
+  ( >.< )  mjau
+   (")(")
 
-Misao dana: git commit -m 'mjau'
-Commit broj 483. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Tipkovnica je topla. Sad je moja.
+Commit broj 484. Mačka ne zna brojati, ovo je izmislila.
