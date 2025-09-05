@@ -1,9 +1,9 @@
-Mačji dnevnik — 2025-09-05 (#2)
+Mačji dnevnik — 2025-09-05 (#3)
 
-   /\_/\
-  ( ^.^ )
-  /|   |\
- (_|   |_)
+   |\__/,|   (`\
+   |_ _  |.--.) )
+   ( T   )     /
+  (((^_(((/(((_/
 
-Misao dana: Sjeo sam na laptop usred calla. Dobrodošli.
-Commit broj 496. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Merge conflict s psom. Riješeno grebanjem.
+Commit broj 497. Mačka ne zna brojati, ovo je izmislila.
