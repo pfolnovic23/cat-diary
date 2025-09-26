@@ -1,8 +1,8 @@
-Mačji dnevnik — 2025-09-26 (#2)
+Mačji dnevnik — 2025-09-26 (#3)
 
-    /\_/\
-   ( O.O )  !!!
-   /  ^  \
+   /\_/\
+  ( o.o )
+   > ^ <
 
-Misao dana: Ovaj commit je napravila mačka. Recruiteri, pozdrav.
-Commit broj 535. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: git commit -m 'mjau'
+Commit broj 536. Mačka ne zna brojati, ovo je izmislila.
