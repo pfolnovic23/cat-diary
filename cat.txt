@@ -1,8 +1,9 @@
-Mačji dnevnik — 2025-10-03 (#7)
+Mačji dnevnik — 2025-10-03 (#8)
 
-   /\_/\
-  ( >.< )  mjau
-   (")(")
+   |\__/,|   (`\
+   |_ _  |.--.) )
+   ( T   )     /
+  (((^_(((/(((_/
 
-Misao dana: Netko je zatvorio vrata. Moram biti s druge strane.
-Commit broj 555. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Hrana je u zdjelici, ali vidi se dno. Kriza.
+Commit broj 556. Mačka ne zna brojati, ovo je izmislila.
