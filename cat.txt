@@ -1,8 +1,9 @@
-Mačji dnevnik — 2025-10-10 (#2)
+Mačji dnevnik — 2025-10-10 (#3)
 
-   /\_/\
-  ( >.< )  mjau
-   (")(")
+   |\__/,|   (`\
+   |_ _  |.--.) )
+   ( T   )     /
+  (((^_(((/(((_/
 
-Misao dana: Krastavac iza mene. Nikad neću oprostiti.
-Commit broj 570. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Merge conflict s psom. Riješeno grebanjem.
+Commit broj 571. Mačka ne zna brojati, ovo je izmislila.
