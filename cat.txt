@@ -1,9 +1,8 @@
-Mačji dnevnik — 2025-10-10 (#3)
+Mačji dnevnik — 2025-10-10 (#4)
 
-   |\__/,|   (`\
-   |_ _  |.--.) )
-   ( T   )     /
-  (((^_(((/(((_/
+   /\_/\
+  ( -.- )  zzz
+   > ^ <
 
-Misao dana: Merge conflict s psom. Riješeno grebanjem.
-Commit broj 571. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Sjeo sam na laptop usred calla. Dobrodošli.
+Commit broj 572. Mačka ne zna brojati, ovo je izmislila.
