@@ -1,9 +1,8 @@
-Mačji dnevnik — 2025-10-16 (#1)
+Mačji dnevnik — 2025-10-16 (#2)
 
    /\_/\
-  ( ^.^ )
-  /|   |\
- (_|   |_)
+  ( >.< )  mjau
+   (")(")
 
-Misao dana: Vidio sam pticu kroz prozor. Ona zna što je napravila.
-Commit broj 583. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Merge conflict s psom. Riješeno grebanjem.
+Commit broj 584. Mačka ne zna brojati, ovo je izmislila.
