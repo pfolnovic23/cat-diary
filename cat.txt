@@ -1,8 +1,8 @@
-Mačji dnevnik — 2025-10-16 (#2)
+Mačji dnevnik — 2025-10-16 (#3)
 
    /\_/\
   ( >.< )  mjau
    (")(")
 
-Misao dana: Merge conflict s psom. Riješeno grebanjem.
-Commit broj 584. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Ovaj commit je napravila mačka. Recruiteri, pozdrav.
+Commit broj 585. Mačka ne zna brojati, ovo je izmislila.
