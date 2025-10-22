@@ -1,9 +1,8 @@
-Mačji dnevnik — 2025-10-22 (#6)
+Mačji dnevnik — 2025-10-22 (#7)
 
-   |\__/,|   (`\
-   |_ _  |.--.) )
-   ( T   )     /
-  (((^_(((/(((_/
+    /\_/\
+   ( O.O )  !!!
+   /  ^  \
 
-Misao dana: Netko je zatvorio vrata. Moram biti s druge strane.
-Commit broj 598. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Laser se opet izgubio. Istraga je u tijeku.
+Commit broj 599. Mačka ne zna brojati, ovo je izmislila.
