@@ -1,9 +1,9 @@
-Mačji dnevnik — 2025-10-22 (#10)
+Mačji dnevnik — 2025-10-23 (#1)
 
-   |\__/,|   (`\
-   |_ _  |.--.) )
-   ( T   )     /
-  (((^_(((/(((_/
+   /\_/\
+  ( ^.^ )
+  /|   |\
+ (_|   |_)
 
-Misao dana: Krastavac iza mene. Nikad neću oprostiti.
-Commit broj 602. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: git commit -m 'mjau'
+Commit broj 603. Mačka ne zna brojati, ovo je izmislila.
