@@ -1,8 +1,8 @@
-Mačji dnevnik — 2025-10-28 (#1)
+Mačji dnevnik — 2025-10-28 (#2)
 
-   /\_/\
-  ( o.o )
-   > ^ <
+    /\_/\
+   ( O.O )  !!!
+   /  ^  \
 
-Misao dana: Kutija je stigla. Ono unutra nije bitno.
-Commit broj 609. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Merge conflict s psom. Riješeno grebanjem.
+Commit broj 610. Mačka ne zna brojati, ovo je izmislila.
