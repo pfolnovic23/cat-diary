@@ -1,9 +1,9 @@
-Mačji dnevnik — 2025-11-02 (#1)
+Mačji dnevnik — 2025-11-03 (#1)
 
-   /\_/\
-  ( ^.^ )
-  /|   |\
- (_|   |_)
+   |\__/,|   (`\
+   |_ _  |.--.) )
+   ( T   )     /
+  (((^_(((/(((_/
 
-Misao dana: Mjauknuo sam u 4 ujutro. Bez razloga.
-Commit broj 622. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Merge conflict s psom. Riješeno grebanjem.
+Commit broj 623. Mačka ne zna brojati, ovo je izmislila.
