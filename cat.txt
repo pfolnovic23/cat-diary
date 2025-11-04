@@ -1,9 +1,8 @@
-Mačji dnevnik — 2025-11-04 (#5)
+Mačji dnevnik — 2025-11-04 (#6)
 
-   |\__/,|   (`\
-   |_ _  |.--.) )
-   ( T   )     /
-  (((^_(((/(((_/
+   /\_/\
+  ( >.< )  mjau
+   (")(")
 
-Misao dana: Ovaj commit je napravila mačka. Recruiteri, pozdrav.
-Commit broj 633. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Spavao sam 16 sati. Umoran sam.
+Commit broj 634. Mačka ne zna brojati, ovo je izmislila.
