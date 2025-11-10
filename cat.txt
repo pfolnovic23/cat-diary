@@ -1,8 +1,9 @@
-Mačji dnevnik — 2025-11-10 (#6)
+Mačji dnevnik — 2025-11-10 (#7)
 
    /\_/\
-  ( o.o )
-   > ^ <
+  ( ^.^ )
+  /|   |\
+ (_|   |_)
 
-Misao dana: Sjeo sam na laptop usred calla. Dobrodošli.
-Commit broj 644. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Kutija je stigla. Ono unutra nije bitno.
+Commit broj 645. Mačka ne zna brojati, ovo je izmislila.
