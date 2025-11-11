@@ -1,8 +1,9 @@
-Mačji dnevnik — 2025-11-11 (#2)
+Mačji dnevnik — 2025-11-11 (#3)
 
    /\_/\
-  ( -.- )  zzz
-   > ^ <
+  ( ^.^ )
+  /|   |\
+ (_|   |_)
 
-Misao dana: Hrana je u zdjelici, ali vidi se dno. Kriza.
-Commit broj 650. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Merge conflict s psom. Riješeno grebanjem.
+Commit broj 651. Mačka ne zna brojati, ovo je izmislila.
