@@ -1,8 +1,9 @@
-Mačji dnevnik — 2025-11-17 (#2)
+Mačji dnevnik — 2025-11-17 (#3)
 
-   /\_/\
-  ( >.< )  mjau
-   (")(")
+   |\__/,|   (`\
+   |_ _  |.--.) )
+   ( T   )     /
+  (((^_(((/(((_/
 
-Misao dana: Lovio sam rep. Rep je pobjegao.
-Commit broj 659. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Danas sam pomaknuo jedan pixel na grafu. Ponosan sam.
+Commit broj 660. Mačka ne zna brojati, ovo je izmislila.
