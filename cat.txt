@@ -1,8 +1,9 @@
-Mačji dnevnik — 2025-11-18 (#1)
+Mačji dnevnik — 2025-11-23 (#1)
 
    /\_/\
-  ( o.o )
-   > ^ <
+  ( ^.^ )
+  /|   |\
+ (_|   |_)
 
-Misao dana: Ignorirao sam ime. Odazvao sam se na zvuk vrećice.
-Commit broj 664. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Netko je zatvorio vrata. Moram biti s druge strane.
+Commit broj 665. Mačka ne zna brojati, ovo je izmislila.
