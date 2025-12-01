@@ -1,9 +1,8 @@
-Mačji dnevnik — 2025-12-01 (#2)
+Mačji dnevnik — 2025-12-01 (#3)
 
-   /\_/\
-  ( ^.^ )
-  /|   |\
- (_|   |_)
+    /\_/\
+   ( O.O )  !!!
+   /  ^  \
 
-Misao dana: Danas sam pomaknuo jedan pixel na grafu. Ponosan sam.
-Commit broj 685. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Mjauknuo sam u 4 ujutro. Bez razloga.
+Commit broj 686. Mačka ne zna brojati, ovo je izmislila.
