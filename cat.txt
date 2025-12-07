@@ -1,8 +1,9 @@
-Mačji dnevnik — 2025-12-07 (#4)
+Mačji dnevnik — 2025-12-07 (#5)
 
-   /\_/\
-  ( >.< )  mjau
-   (")(")
+   |\__/,|   (`\
+   |_ _  |.--.) )
+   ( T   )     /
+  (((^_(((/(((_/
 
-Misao dana: Kutija je stigla. Ono unutra nije bitno.
-Commit broj 694. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Laser se opet izgubio. Istraga je u tijeku.
+Commit broj 695. Mačka ne zna brojati, ovo je izmislila.
