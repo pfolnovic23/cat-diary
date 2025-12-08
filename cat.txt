@@ -1,8 +1,8 @@
-Mačji dnevnik — 2025-12-08 (#5)
+Mačji dnevnik — 2025-12-08 (#6)
 
     /\_/\
    ( O.O )  !!!
    /  ^  \
 
-Misao dana: Lovio sam rep. Rep je pobjegao.
-Commit broj 701. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Ovaj commit je napravila mačka. Recruiteri, pozdrav.
+Commit broj 702. Mačka ne zna brojati, ovo je izmislila.
