@@ -1,9 +1,8 @@
-Mačji dnevnik — 2025-12-15 (#1)
+Mačji dnevnik — 2025-12-15 (#2)
 
-   |\__/,|   (`\
-   |_ _  |.--.) )
-   ( T   )     /
-  (((^_(((/(((_/
+    /\_/\
+   ( O.O )  !!!
+   /  ^  \
 
-Misao dana: Kutija je stigla. Ono unutra nije bitno.
-Commit broj 707. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Merge conflict s psom. Riješeno grebanjem.
+Commit broj 708. Mačka ne zna brojati, ovo je izmislila.
