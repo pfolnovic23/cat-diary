@@ -1,8 +1,8 @@
-Mačji dnevnik — 2025-12-15 (#2)
+Mačji dnevnik — 2025-12-15 (#3)
 
-    /\_/\
-   ( O.O )  !!!
-   /  ^  \
+   /\_/\
+  ( o.o )
+   > ^ <
 
 Misao dana: Merge conflict s psom. Riješeno grebanjem.
-Commit broj 708. Mačka ne zna brojati, ovo je izmislila.
+Commit broj 709. Mačka ne zna brojati, ovo je izmislila.
