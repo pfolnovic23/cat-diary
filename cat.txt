@@ -1,9 +1,8 @@
-Mačji dnevnik — 2026-01-07 (#5)
+Mačji dnevnik — 2026-01-07 (#6)
 
-   |\__/,|   (`\
-   |_ _  |.--.) )
-   ( T   )     /
-  (((^_(((/(((_/
+   /\_/\
+  ( o.o )
+   > ^ <
 
-Misao dana: Tipkovnica je topla. Sad je moja.
-Commit broj 757. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: git commit -m 'mjau'
+Commit broj 758. Mačka ne zna brojati, ovo je izmislila.
