@@ -1,9 +1,8 @@
-Mačji dnevnik — 2026-01-15 (#4)
+Mačji dnevnik — 2026-01-15 (#5)
 
-   |\__/,|   (`\
-   |_ _  |.--.) )
-   ( T   )     /
-  (((^_(((/(((_/
+   /\_/\
+  ( o.o )
+   > ^ <
 
-Misao dana: Laser se opet izgubio. Istraga je u tijeku.
-Commit broj 776. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Lovio sam rep. Rep je pobjegao.
+Commit broj 777. Mačka ne zna brojati, ovo je izmislila.
