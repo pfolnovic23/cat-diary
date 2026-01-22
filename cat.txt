@@ -1,8 +1,8 @@
-Mačji dnevnik — 2026-01-22 (#1)
+Mačji dnevnik — 2026-01-22 (#2)
 
-   /\_/\
-  ( o.o )
-   > ^ <
+    /\_/\
+   ( O.O )  !!!
+   /  ^  \
 
-Misao dana: Krastavac iza mene. Nikad neću oprostiti.
-Commit broj 781. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Vidio sam pticu kroz prozor. Ona zna što je napravila.
+Commit broj 782. Mačka ne zna brojati, ovo je izmislila.
