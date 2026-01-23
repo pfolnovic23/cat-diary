@@ -1,9 +1,9 @@
-Mačji dnevnik — 2026-01-23 (#4)
+Mačji dnevnik — 2026-01-23 (#5)
 
-   |\__/,|   (`\
-   |_ _  |.--.) )
-   ( T   )     /
-  (((^_(((/(((_/
+   /\_/\
+  ( ^.^ )
+  /|   |\
+ (_|   |_)
 
-Misao dana: Ignorirao sam ime. Odazvao sam se na zvuk vrećice.
-Commit broj 790. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Danas sam pomaknuo jedan pixel na grafu. Ponosan sam.
+Commit broj 791. Mačka ne zna brojati, ovo je izmislila.
