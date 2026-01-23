@@ -1,9 +1,8 @@
-Mačji dnevnik — 2026-01-23 (#1)
+Mačji dnevnik — 2026-01-23 (#2)
 
-   |\__/,|   (`\
-   |_ _  |.--.) )
-   ( T   )     /
-  (((^_(((/(((_/
+    /\_/\
+   ( O.O )  !!!
+   /  ^  \
 
-Misao dana: Ignorirao sam ime. Odazvao sam se na zvuk vrećice.
-Commit broj 787. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Merge conflict s psom. Riješeno grebanjem.
+Commit broj 788. Mačka ne zna brojati, ovo je izmislila.
