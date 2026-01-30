@@ -1,9 +1,8 @@
-Mačji dnevnik — 2026-01-30 (#5)
+Mačji dnevnik — 2026-01-30 (#6)
 
    /\_/\
-  ( ^.^ )
-  /|   |\
- (_|   |_)
+  ( >.< )  mjau
+   (")(")
 
-Misao dana: Hrana je u zdjelici, ali vidi se dno. Kriza.
-Commit broj 801. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Spavao sam 16 sati. Umoran sam.
+Commit broj 802. Mačka ne zna brojati, ovo je izmislila.
