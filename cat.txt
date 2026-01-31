@@ -1,8 +1,8 @@
-Mačji dnevnik — 2026-01-31 (#1)
+Mačji dnevnik — 2026-01-31 (#2)
 
    /\_/\
   ( o.o )
    > ^ <
 
-Misao dana: Laser se opet izgubio. Istraga je u tijeku.
-Commit broj 807. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Merge conflict s psom. Riješeno grebanjem.
+Commit broj 808. Mačka ne zna brojati, ovo je izmislila.
