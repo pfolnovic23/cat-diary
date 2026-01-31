@@ -1,8 +1,8 @@
-Mačji dnevnik — 2026-01-30 (#10)
+Mačji dnevnik — 2026-01-31 (#1)
 
    /\_/\
-  ( >.< )  mjau
-   (")(")
+  ( o.o )
+   > ^ <
 
-Misao dana: Danas sam pomaknuo jedan pixel na grafu. Ponosan sam.
-Commit broj 806. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Laser se opet izgubio. Istraga je u tijeku.
+Commit broj 807. Mačka ne zna brojati, ovo je izmislila.
