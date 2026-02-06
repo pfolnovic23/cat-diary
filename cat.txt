@@ -1,8 +1,9 @@
-Mačji dnevnik — 2026-02-06 (#5)
+Mačji dnevnik — 2026-02-06 (#6)
 
    /\_/\
-  ( >.< )  mjau
-   (")(")
+  ( ^.^ )
+  /|   |\
+ (_|   |_)
 
-Misao dana: Mjauknuo sam u 4 ujutro. Bez razloga.
-Commit broj 815. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Netko je zatvorio vrata. Moram biti s druge strane.
+Commit broj 816. Mačka ne zna brojati, ovo je izmislila.
