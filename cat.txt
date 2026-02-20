@@ -1,9 +1,8 @@
-Mačji dnevnik — 2026-02-20 (#5)
+Mačji dnevnik — 2026-02-20 (#6)
 
-   |\__/,|   (`\
-   |_ _  |.--.) )
-   ( T   )     /
-  (((^_(((/(((_/
+   /\_/\
+  ( >.< )  mjau
+   (")(")
 
-Misao dana: Danas sam srušio čašu sa stola. Ne žalim.
-Commit broj 841. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Sjeo sam na laptop usred calla. Dobrodošli.
+Commit broj 842. Mačka ne zna brojati, ovo je izmislila.
