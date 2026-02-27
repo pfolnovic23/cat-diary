@@ -1,8 +1,9 @@
-Mačji dnevnik — 2026-02-27 (#5)
+Mačji dnevnik — 2026-02-27 (#6)
 
-    /\_/\
-   ( O.O )  !!!
-   /  ^  \
+   /\_/\
+  ( ^.^ )
+  /|   |\
+ (_|   |_)
 
-Misao dana: Merge conflict s psom. Riješeno grebanjem.
-Commit broj 854. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Spavao sam 16 sati. Umoran sam.
+Commit broj 855. Mačka ne zna brojati, ovo je izmislila.
