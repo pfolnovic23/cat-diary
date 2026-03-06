@@ -1,8 +1,8 @@
-Mačji dnevnik — 2026-03-06 (#2)
+Mačji dnevnik — 2026-03-06 (#3)
 
    /\_/\
-  ( >.< )  mjau
-   (")(")
+  ( o.o )
+   > ^ <
 
-Misao dana: Netko je zatvorio vrata. Moram biti s druge strane.
-Commit broj 866. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: git commit -m 'mjau'
+Commit broj 867. Mačka ne zna brojati, ovo je izmislila.
