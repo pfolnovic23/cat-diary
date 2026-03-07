@@ -1,8 +1,8 @@
-Mačji dnevnik — 2026-03-07 (#1)
+Mačji dnevnik — 2026-03-07 (#2)
 
     /\_/\
    ( O.O )  !!!
    /  ^  \
 
-Misao dana: Krastavac iza mene. Nikad neću oprostiti.
-Commit broj 875. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Spavao sam 16 sati. Umoran sam.
+Commit broj 876. Mačka ne zna brojati, ovo je izmislila.
