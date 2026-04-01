@@ -1,9 +1,9 @@
-Mačji dnevnik — 2026-03-31 (#6)
+Mačji dnevnik — 2026-04-01 (#1)
 
-   |\__/,|   (`\
-   |_ _  |.--.) )
-   ( T   )     /
-  (((^_(((/(((_/
+   /\_/\
+  ( ^.^ )
+  /|   |\
+ (_|   |_)
 
 Misao dana: Sjeo sam na laptop usred calla. Dobrodošli.
-Commit broj 928. Mačka ne zna brojati, ovo je izmislila.
+Commit broj 929. Mačka ne zna brojati, ovo je izmislila.
