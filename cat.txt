@@ -1,8 +1,8 @@
-Mačji dnevnik — 2026-04-07 (#7)
+Mačji dnevnik — 2026-04-07 (#8)
 
    /\_/\
   ( o.o )
    > ^ <
 
-Misao dana: Merge conflict s psom. Riješeno grebanjem.
-Commit broj 945. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Hrana je u zdjelici, ali vidi se dno. Kriza.
+Commit broj 946. Mačka ne zna brojati, ovo je izmislila.
