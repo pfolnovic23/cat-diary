@@ -1,8 +1,8 @@
-Mačji dnevnik — 2026-04-14 (#4)
+Mačji dnevnik — 2026-04-14 (#5)
 
-   /\_/\
-  ( o.o )
-   > ^ <
+    /\_/\
+   ( O.O )  !!!
+   /  ^  \
 
-Misao dana: Sjeo sam na laptop usred calla. Dobrodošli.
-Commit broj 962. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Laser se opet izgubio. Istraga je u tijeku.
+Commit broj 963. Mačka ne zna brojati, ovo je izmislila.
