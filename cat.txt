@@ -1,8 +1,9 @@
-Mačji dnevnik — 2026-04-14 (#1)
+Mačji dnevnik — 2026-04-14 (#2)
 
-   /\_/\
-  ( -.- )  zzz
-   > ^ <
+   |\__/,|   (`\
+   |_ _  |.--.) )
+   ( T   )     /
+  (((^_(((/(((_/
 
-Misao dana: Laser se opet izgubio. Istraga je u tijeku.
-Commit broj 959. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Merge conflict s psom. Riješeno grebanjem.
+Commit broj 960. Mačka ne zna brojati, ovo je izmislila.
