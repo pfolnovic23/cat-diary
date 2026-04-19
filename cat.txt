@@ -1,8 +1,8 @@
-Mačji dnevnik — 2026-04-15 (#1)
+Mačji dnevnik — 2026-04-19 (#1)
 
-   /\_/\
-  ( o.o )
-   > ^ <
+    /\_/\
+   ( O.O )  !!!
+   /  ^  \
 
-Misao dana: Hrana je u zdjelici, ali vidi se dno. Kriza.
-Commit broj 965. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: git commit -m 'mjau'
+Commit broj 966. Mačka ne zna brojati, ovo je izmislila.
