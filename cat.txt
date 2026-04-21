@@ -1,9 +1,8 @@
-Mačji dnevnik — 2026-04-20 (#10)
+Mačji dnevnik — 2026-04-21 (#1)
 
-   |\__/,|   (`\
-   |_ _  |.--.) )
-   ( T   )     /
-  (((^_(((/(((_/
+    /\_/\
+   ( O.O )  !!!
+   /  ^  \
 
-Misao dana: Vidio sam pticu kroz prozor. Ona zna što je napravila.
-Commit broj 978. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Spavao sam 16 sati. Umoran sam.
+Commit broj 979. Mačka ne zna brojati, ovo je izmislila.
