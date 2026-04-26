@@ -1,8 +1,8 @@
-Mačji dnevnik — 2026-04-26 (#4)
+Mačji dnevnik — 2026-04-26 (#5)
 
    /\_/\
   ( o.o )
    > ^ <
 
-Misao dana: Ovaj commit je napravila mačka. Recruiteri, pozdrav.
-Commit broj 985. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Ignorirao sam ime. Odazvao sam se na zvuk vrećice.
+Commit broj 986. Mačka ne zna brojati, ovo je izmislila.
