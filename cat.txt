@@ -1,8 +1,9 @@
-Mačji dnevnik — 2026-04-27 (#2)
+Mačji dnevnik — 2026-04-27 (#3)
 
-    /\_/\
-   ( O.O )  !!!
-   /  ^  \
+   |\__/,|   (`\
+   |_ _  |.--.) )
+   ( T   )     /
+  (((^_(((/(((_/
 
-Misao dana: Laser se opet izgubio. Istraga je u tijeku.
-Commit broj 989. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: git commit -m 'mjau'
+Commit broj 990. Mačka ne zna brojati, ovo je izmislila.
