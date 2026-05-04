@@ -1,9 +1,9 @@
-Mačji dnevnik — 2026-05-04 (#4)
+Mačji dnevnik — 2026-05-04 (#5)
 
    |\__/,|   (`\
    |_ _  |.--.) )
    ( T   )     /
   (((^_(((/(((_/
 
-Misao dana: Spavao sam 16 sati. Umoran sam.
-Commit broj 1004. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Ignorirao sam ime. Odazvao sam se na zvuk vrećice.
+Commit broj 1005. Mačka ne zna brojati, ovo je izmislila.
