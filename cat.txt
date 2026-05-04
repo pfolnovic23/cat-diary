@@ -1,9 +1,8 @@
-Mačji dnevnik — 2026-05-04 (#5)
+Mačji dnevnik — 2026-05-04 (#6)
 
-   |\__/,|   (`\
-   |_ _  |.--.) )
-   ( T   )     /
-  (((^_(((/(((_/
+   /\_/\
+  ( o.o )
+   > ^ <
 
-Misao dana: Ignorirao sam ime. Odazvao sam se na zvuk vrećice.
-Commit broj 1005. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Netko je zatvorio vrata. Moram biti s druge strane.
+Commit broj 1006. Mačka ne zna brojati, ovo je izmislila.
