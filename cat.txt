@@ -1,9 +1,9 @@
-Mačji dnevnik — 2026-05-18 (#4)
+Mačji dnevnik — 2026-05-18 (#5)
 
    |\__/,|   (`\
    |_ _  |.--.) )
    ( T   )     /
   (((^_(((/(((_/
 
-Misao dana: Kutija je stigla. Ono unutra nije bitno.
-Commit broj 1030. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Danas sam srušio čašu sa stola. Ne žalim.
+Commit broj 1031. Mačka ne zna brojati, ovo je izmislila.
