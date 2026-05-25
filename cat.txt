@@ -1,8 +1,8 @@
-Mačji dnevnik — 2026-05-25 (#8)
+Mačji dnevnik — 2026-05-25 (#9)
 
    /\_/\
   ( >.< )  mjau
    (")(")
 
-Misao dana: Hrana je u zdjelici, ali vidi se dno. Kriza.
-Commit broj 1044. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: git commit -m 'mjau'
+Commit broj 1045. Mačka ne zna brojati, ovo je izmislila.
