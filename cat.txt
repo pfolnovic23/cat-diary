@@ -1,9 +1,8 @@
-Mačji dnevnik — 2026-06-01 (#1)
+Mačji dnevnik — 2026-06-01 (#2)
 
    /\_/\
-  ( ^.^ )
-  /|   |\
- (_|   |_)
+  ( >.< )  mjau
+   (")(")
 
-Misao dana: git commit -m 'mjau'
-Commit broj 1050. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Merge conflict s psom. Riješeno grebanjem.
+Commit broj 1051. Mačka ne zna brojati, ovo je izmislila.
