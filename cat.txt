@@ -1,9 +1,9 @@
-Mačji dnevnik — 2026-06-02 (#4)
+Mačji dnevnik — 2026-06-02 (#5)
 
-   /\_/\
-  ( ^.^ )
-  /|   |\
- (_|   |_)
+   |\__/,|   (`\
+   |_ _  |.--.) )
+   ( T   )     /
+  (((^_(((/(((_/
 
-Misao dana: Krastavac iza mene. Nikad neću oprostiti.
-Commit broj 1056. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Lovio sam rep. Rep je pobjegao.
+Commit broj 1057. Mačka ne zna brojati, ovo je izmislila.
