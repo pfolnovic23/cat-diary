@@ -1,8 +1,8 @@
-Mačji dnevnik — 2026-06-17 (#3)
+Mačji dnevnik — 2026-06-17 (#4)
 
    /\_/\
   ( -.- )  zzz
    > ^ <
 
-Misao dana: Sjeo sam na laptop usred calla. Dobrodošli.
-Commit broj 1085. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Merge conflict s psom. Riješeno grebanjem.
+Commit broj 1086. Mačka ne zna brojati, ovo je izmislila.
