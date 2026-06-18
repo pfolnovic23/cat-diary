@@ -1,8 +1,8 @@
-Mačji dnevnik — 2026-06-18 (#1)
+Mačji dnevnik — 2026-06-18 (#2)
 
-    /\_/\
-   ( O.O )  !!!
-   /  ^  \
+   /\_/\
+  ( o.o )
+   > ^ <
 
-Misao dana: Hrana je u zdjelici, ali vidi se dno. Kriza.
-Commit broj 1093. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Lovio sam rep. Rep je pobjegao.
+Commit broj 1094. Mačka ne zna brojati, ovo je izmislila.
