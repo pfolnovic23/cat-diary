@@ -1,9 +1,8 @@
-Mačji dnevnik — 2026-07-17 (#3)
+Mačji dnevnik — 2026-07-17 (#4)
 
    /\_/\
-  ( ^.^ )
-  /|   |\
- (_|   |_)
+  ( o.o )
+   > ^ <
 
-Misao dana: Kutija je stigla. Ono unutra nije bitno.
-Commit broj 1145. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Sjeo sam na laptop usred calla. Dobrodošli.
+Commit broj 1146. Mačka ne zna brojati, ovo je izmislila.
