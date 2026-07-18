@@ -1,8 +1,9 @@
-Mačji dnevnik — 2026-07-18 (#5)
+Mačji dnevnik — 2026-07-18 (#6)
 
-    /\_/\
-   ( O.O )  !!!
-   /  ^  \
+   |\__/,|   (`\
+   |_ _  |.--.) )
+   ( T   )     /
+  (((^_(((/(((_/
 
-Misao dana: Spavao sam 16 sati. Umoran sam.
-Commit broj 1153. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Laser se opet izgubio. Istraga je u tijeku.
+Commit broj 1154. Mačka ne zna brojati, ovo je izmislila.
