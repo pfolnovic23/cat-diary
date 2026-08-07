@@ -1,8 +1,8 @@
-Mačji dnevnik — 2026-08-06 (#1)
+Mačji dnevnik — 2026-08-07 (#1)
 
    /\_/\
-  ( o.o )
+  ( -.- )  zzz
    > ^ <
 
-Misao dana: Sjeo sam na laptop usred calla. Dobrodošli.
-Commit broj 1181. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: git commit -m 'mjau'
+Commit broj 1182. Mačka ne zna brojati, ovo je izmislila.
