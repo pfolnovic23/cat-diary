@@ -1,8 +1,8 @@
-Mačji dnevnik — 2026-08-08 (#2)
+Mačji dnevnik — 2026-08-08 (#3)
 
-   /\_/\
-  ( >.< )  mjau
-   (")(")
+    /\_/\
+   ( O.O )  !!!
+   /  ^  \
 
-Misao dana: Merge conflict s psom. Riješeno grebanjem.
-Commit broj 1189. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: git commit -m 'mjau'
+Commit broj 1190. Mačka ne zna brojati, ovo je izmislila.
