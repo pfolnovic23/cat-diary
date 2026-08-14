@@ -1,8 +1,9 @@
-Mačji dnevnik — 2026-08-14 (#7)
+Mačji dnevnik — 2026-08-14 (#8)
 
    /\_/\
-  ( o.o )
-   > ^ <
+  ( ^.^ )
+  /|   |\
+ (_|   |_)
 
-Misao dana: Kutija je stigla. Ono unutra nije bitno.
-Commit broj 1203. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Merge conflict s psom. Riješeno grebanjem.
+Commit broj 1204. Mačka ne zna brojati, ovo je izmislila.
