@@ -1,8 +1,8 @@
-Mačji dnevnik — 2026-08-20 (#1)
+Mačji dnevnik — 2026-08-20 (#2)
 
-    /\_/\
-   ( O.O )  !!!
-   /  ^  \
+   /\_/\
+  ( o.o )
+   > ^ <
 
-Misao dana: Merge conflict s psom. Riješeno grebanjem.
-Commit broj 1211. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Lovio sam rep. Rep je pobjegao.
+Commit broj 1212. Mačka ne zna brojati, ovo je izmislila.
