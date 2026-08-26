@@ -1,9 +1,8 @@
-Mačji dnevnik — 2026-08-26 (#2)
+Mačji dnevnik — 2026-08-26 (#3)
 
-   |\__/,|   (`\
-   |_ _  |.--.) )
-   ( T   )     /
-  (((^_(((/(((_/
+   /\_/\
+  ( -.- )  zzz
+   > ^ <
 
-Misao dana: Hrana je u zdjelici, ali vidi se dno. Kriza.
-Commit broj 1225. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Merge conflict s psom. Riješeno grebanjem.
+Commit broj 1226. Mačka ne zna brojati, ovo je izmislila.
