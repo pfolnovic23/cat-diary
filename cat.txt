@@ -1,8 +1,8 @@
-Mačji dnevnik — 2026-09-10 (#1)
+Mačji dnevnik — 2026-09-13 (#1)
 
-    /\_/\
-   ( O.O )  !!!
-   /  ^  \
+   /\_/\
+  ( o.o )
+   > ^ <
 
-Misao dana: Tipkovnica je topla. Sad je moja.
-Commit broj 1269. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Danas sam srušio čašu sa stola. Ne žalim.
+Commit broj 1270. Mačka ne zna brojati, ovo je izmislila.
