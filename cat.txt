@@ -1,8 +1,8 @@
-Mačji dnevnik — 2026-09-15 (#2)
+Mačji dnevnik — 2026-09-15 (#3)
 
    /\_/\
-  ( o.o )
+  ( -.- )  zzz
    > ^ <
 
-Misao dana: Krastavac iza mene. Nikad neću oprostiti.
-Commit broj 1278. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Ovaj commit je napravila mačka. Recruiteri, pozdrav.
+Commit broj 1279. Mačka ne zna brojati, ovo je izmislila.
