@@ -1,8 +1,9 @@
-Mačji dnevnik — 2026-11-10 (#6)
+Mačji dnevnik — 2026-11-10 (#7)
 
    /\_/\
-  ( >.< )  mjau
-   (")(")
+  ( ^.^ )
+  /|   |\
+ (_|   |_)
 
-Misao dana: Vidio sam pticu kroz prozor. Ona zna što je napravila.
-Commit broj 1390. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Ignorirao sam ime. Odazvao sam se na zvuk vrećice.
+Commit broj 1391. Mačka ne zna brojati, ovo je izmislila.
