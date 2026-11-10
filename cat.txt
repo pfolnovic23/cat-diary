@@ -1,9 +1,8 @@
-Mačji dnevnik — 2026-11-10 (#7)
+Mačji dnevnik — 2026-11-10 (#8)
 
    /\_/\
-  ( ^.^ )
-  /|   |\
- (_|   |_)
+  ( o.o )
+   > ^ <
 
-Misao dana: Ignorirao sam ime. Odazvao sam se na zvuk vrećice.
-Commit broj 1391. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Spavao sam 16 sati. Umoran sam.
+Commit broj 1392. Mačka ne zna brojati, ovo je izmislila.
