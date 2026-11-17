@@ -1,9 +1,8 @@
-Mačji dnevnik — 2026-11-17 (#3)
+Mačji dnevnik — 2026-11-17 (#4)
 
-   /\_/\
-  ( ^.^ )
-  /|   |\
- (_|   |_)
+    /\_/\
+   ( O.O )  !!!
+   /  ^  \
 
-Misao dana: git commit -m 'mjau'
-Commit broj 1401. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Lovio sam rep. Rep je pobjegao.
+Commit broj 1402. Mačka ne zna brojati, ovo je izmislila.
