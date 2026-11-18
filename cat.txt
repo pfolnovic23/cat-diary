@@ -1,8 +1,8 @@
-Mačji dnevnik — 2026-11-18 (#3)
+Mačji dnevnik — 2026-11-18 (#4)
 
-    /\_/\
-   ( O.O )  !!!
-   /  ^  \
+   /\_/\
+  ( o.o )
+   > ^ <
 
-Misao dana: Danas sam pomaknuo jedan pixel na grafu. Ponosan sam.
-Commit broj 1407. Mačka ne zna brojati, ovo je izmislila.
+Misao dana: Ignorirao sam ime. Odazvao sam se na zvuk vrećice.
+Commit broj 1408. Mačka ne zna brojati, ovo je izmislila.
